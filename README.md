@@ -1,2 +1,2 @@
-# 3012ogr
-Optical Graph Recognition and Analysis Project for MATH3012: Applied Combinatorics
+# Optical Graph Recognition and Analysis (OGRA)
+## By Seohyun Park, Kevin Jacob, Parv Mahajan (equl contributors)
